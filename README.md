@@ -61,19 +61,6 @@ The models remain fixed throughout the study:
 - The same test images and ground-truth annotations are used for all detectors.
 - Detector outputs are converted into a common evaluation format for comparison.
 
-The students' main responsibilities therefore centre on:
-
-1. Designing and preparing the controlled test set.
-2. Collecting and organising images.
-3. Annotating ground-truth objects.
-4. Generating controlled occlusion conditions.
-5. Running inference using the assigned pretrained detector.
-6. Recording predictions, confidence scores and bounding boxes.
-7. Evaluating detector performance.
-8. Analysing failure cases.
-9. Comparing results across the three detectors.
-10. Presenting findings through graphs, tables, a research report and a final presentation.
-
 ## Test Set
 
 The test set uses common everyday object classes that can be recognised by all three pretrained detectors, such as:
@@ -121,31 +108,8 @@ The project may evaluate:
 
 A common evaluation pipeline is used so that differences in results reflect the behaviour of the detectors rather than differences in evaluation procedure.
 
-## Team Workflow
-
-The project is designed for three students working collaboratively on one shared research problem.
-
-- **Student A:** RF-DETR Nano
-- **Student B:** TorchVision MobileNetV3-SSDLite
-- **Student C:** YOLO26n
-
-All students jointly contribute to test-set preparation, annotation, evaluation design, comparative analysis and final presentation.
-
-
-## Expected Deliverables
-
-By the end of the project, the team is expected to produce:
-
-- A structured controlled-occlusion image test set.
-- Ground-truth annotations and metadata.
-- Detection results from all three pretrained models.
-- Comparative evaluation tables.
-- Graphs showing performance under increasing occlusion.
-- A visual gallery of successful and failed detections.
-- Cross-detector robustness analysis.
-- A short research report.
-- A research poster.
-- A group presentation.
+# Results
+(to be updated)
 
 ## Note
 

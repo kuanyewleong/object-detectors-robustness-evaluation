@@ -1,0 +1,6 @@
+rfdetr
+torch
+torchvision
+opencv-python
+pandas
+numpy

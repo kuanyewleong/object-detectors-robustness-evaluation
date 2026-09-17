@@ -13,6 +13,8 @@ The students' main responsibilities therefore centre on:
 9. Comparing results across the three detectors.
 10. Presenting findings through graphs, tables, a research report and a final presentation.
 
+## Important note for photoshooting
+One important experimental detail: because the students will photograph cups, books, and potted plants etc., we recommend keeping the camera and target object fixed while adding/removing the occluder. Then the bounding box from the unobstructed image can be reused as the ground-truth full-object box for its occluded versions. This willbe the baseline we needed for benchmarking.
 
 ## Team Workflow
 

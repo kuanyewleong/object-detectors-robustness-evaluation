@@ -1,0 +1,32 @@
+{
+  "model": "YOLO26n",
+  "images": [
+    {
+      "image_id": "cup_01_occ40_center.jpg",
+      "image_path": "dataset/cup/cup_01_occ40_center.jpg",
+
+      "gt": {
+        "class_name": "cup",
+        "bbox": [100, 100, 300, 400],
+        "occlusion_level": 40,
+        "occlusion_position": "center",
+        "object_id": "cup_01",
+        "viewpoint": "front",
+        "background": "plain"
+      },
+
+      "detections": [
+        {
+          "class_name": "cup",
+          "confidence": 0.73,
+          "bbox": [108, 102, 292, 395]
+        },
+        {
+          "class_name": "book",
+          "confidence": 0.31,
+          "bbox": [450, 220, 570, 390]
+        }
+      ]
+    }
+  ]
+}

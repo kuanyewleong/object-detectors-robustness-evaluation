@@ -41,11 +41,11 @@ Rather than comparing the largest or most computationally expensive object detec
 
 The three detectors also represent different object-detection design approaches:
 
-| Detector | General Approach | Selected Variant |
-|---|---|---|
-| RF-DETR | Transformer-based detection | Nano |
-| MobileNetV3-SSDLite | Lightweight CNN + SSD | MobileNetV3-SSDLite |
-| YOLO26 | One-stage YOLO detection | Nano |
+| Detector | General Approach | Selected Variant | Person in-charge |
+|---|---|---| --- |
+| RF-DETR | Transformer-based detection | Nano | SL |
+| MobileNetV3-SSDLite | Lightweight CNN + SSD | MobileNetV3-SSDLite | Bamboo |
+| YOLO26 | One-stage YOLO detection | Nano | JT |
 
 This allows the project to investigate whether different lightweight detector architectures respond differently to object occlusion while remaining relevant to practical deployment scenarios such as embedded systems, mobile platforms, robotics and other edge-AI applications.
 

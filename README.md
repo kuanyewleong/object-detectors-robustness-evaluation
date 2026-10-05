@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project investigates how well pretrained object detectors can recognise everyday objects when they are partly hidden. We prepare a controlled test set using common items such as bottles, cups, books and potted plant, photographed from different viewpoints and backgrounds, then covered at several occlusion levels and positions.
+This project investigates how well pretrained object detectors can recognise everyday objects when they are partly hidden. We prepare a controlled test set using common items such as spoon, cups, books and remote control, photographed from different viewpoints and backgrounds, then covered at several occlusion levels and positions.
 
 Using fixed pretrained models with no retraining, we record detection results and confidence scores, calculate performance at each occlusion level, and identify common failure patterns. The study focuses on how object visibility, occlusion position, object category and detector architecture affect robustness.
 
@@ -65,10 +65,9 @@ The models remain fixed throughout the study:
 
 The test set uses common everyday object classes that can be recognised by all three pretrained detectors, such as:
 
-- Bottle
-- Cup
+- Spoon
+- Remote Control
 - Book
-- Potted Plants
 
 Objects are photographed under controlled variations including:
 

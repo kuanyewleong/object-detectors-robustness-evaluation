@@ -27,7 +27,7 @@ Three pretrained object detectors are used:
 ### 1. RF-DETR Nano
 A compact RF-DETR variant representing a modern transformer-based object detector.
 
-### 2. TorchVision Faster R-CNN ResNet50-FPN V2
+### 2. Faster R-CNN ResNet50-FPN V2
 A two-stage detector using ResNet-50 with a Feature Pyramid Network (FPN), representing robust CNN-based object detection across multiple object scales.
 
 ### 3. YOLO26n

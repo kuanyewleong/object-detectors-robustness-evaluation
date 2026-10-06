@@ -27,8 +27,8 @@ Three pretrained object detectors are used:
 ### 1. RF-DETR Nano
 A compact RF-DETR variant representing a modern transformer-based object detector.
 
-### 2. TorchVision MobileNetV3-SSDLite
-A lightweight SSD-style detector using MobileNetV3 as its backbone, representing efficient CNN-based object detection.
+### 2. TorchVision Faster R-CNN ResNet50-FPN V2
+A two-stage detector using ResNet-50 with a Feature Pyramid Network (FPN), representing robust CNN-based object detection across multiple object scales.
 
 ### 3. YOLO26n
 The Nano variant of YOLO26, representing a lightweight one-stage YOLO detector.
@@ -44,7 +44,7 @@ The three detectors also represent different object-detection design approaches:
 | Detector | General Approach | Selected Variant | Person in-charge |
 |---|---|---| --- |
 | RF-DETR | Transformer-based detection | Nano | Sue Lynn |
-| MobileNetV3-SSDLite | Lightweight CNN + SSD | MobileNetV3-SSDLite | Yi Hung |
+| Faster R-CNN | RCNN + FPN | ResNet50-FPN-V2 | Yi Hung |
 | YOLO26 | One-stage YOLO detection | Nano | Jun Thean |
 
 This allows the project to investigate whether different lightweight detector architectures respond differently to object occlusion while remaining relevant to practical deployment scenarios such as embedded systems, mobile platforms, robotics and other edge-AI applications.

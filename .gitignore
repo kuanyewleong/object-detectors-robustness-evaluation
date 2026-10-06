@@ -5,4 +5,3 @@ __pycache__/
 
 dataset/*
 outputs/*
-baseline_test/*

@@ -10,8 +10,8 @@ from torchvision.models.detection import (
 weights = FasterRCNN_ResNet50_FPN_V2_Weights.DEFAULT
 categories = weights.meta["categories"]
 
-IMAGE_PATH = Path(r"dataset\spoon\spoon3_0%_topdown_white_plain.jpg")
-OUTPUT_PATH = Path("outputs") / f"{IMAGE_PATH.stem}_detected.jpg"
+IMAGE_PATH = Path(r"dataset\spoon\spoon2_0%_topdown_white_plain.jpg")
+OUTPUT_PATH = Path("baseline_test") / f"{IMAGE_PATH.stem}_detected.jpg"
 CONFIDENCE_THRESHOLD = 0.4
 CAPTION_FONT_SIZE = 32
 

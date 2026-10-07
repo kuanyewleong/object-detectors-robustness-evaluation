@@ -1,7 +1,10 @@
 .venv/
 .venv-*/
+.v_*/
 __pycache__/
 *.pyc
 
 dataset/*
 outputs/*
+*.pt
+*.pth

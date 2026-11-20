@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project investigates how well pretrained object detectors can recognise everyday objects when they are partly hidden. We prepare a controlled test set using common items such as spoon, cups, books and remote control, photographed from different viewpoints and backgrounds, then covered at several occlusion levels and positions.
+This project investigates how well pretrained object detectors can recognise everyday objects when they are partly hidden. We prepare a controlled test set using common items such as spoon, books and remote control, photographed from different backgrounds, then covered at several occlusion levels, orientations, and colours.
 
 Using fixed pretrained models with no retraining, we record detection results and confidence scores, calculate performance at each occlusion level, and identify common failure patterns. The study focuses on how object visibility, occlusion position, object category and detector architecture affect robustness.
 
@@ -72,12 +72,12 @@ The test set uses common everyday object classes that can be recognised by all t
 Objects are photographed under controlled variations including:
 
 - Different physical object instances.
-- Different viewpoints.
 - Different backgrounds.
 - Different occlusion percentages.
-- Different occlusion positions.
+- Different occlusion orientation.
+- Different occluder colours
 
-Example occlusion levels may include:
+The occlusion levels include:
 
 - 0% — fully visible
 - 20%
@@ -85,22 +85,17 @@ Example occlusion levels may include:
 - 60%
 - 80%
 
-Example occlusion positions may include:
+The occlusion orientations include:
 
-- Top
-- Bottom
-- Left
-- Right
-- Centre
+- Topdown
+- Diagonal
 
 ## Evaluation
 
-The project may evaluate:
+The project will evaluate:
 
 - Detection rate.
-- Detection retention relative to the unobstructed baseline.
 - Confidence score changes.
-- Intersection over Union (IoU).
 - Object-class-specific performance.
 - Occlusion-position-specific performance.
 - Failure cases such as missed detections, incorrect classifications and poor localisation.
@@ -108,7 +103,7 @@ The project may evaluate:
 A common evaluation pipeline is used so that differences in results reflect the behaviour of the detectors rather than differences in evaluation procedure.
 
 # Results
-(to be updated)
+Please refer to the results section.
 
 ## Note
 

@@ -1,0 +1,325 @@
+﻿File name,Detection output,Confidence (%)
+Book1_0%_diagonal_grey_plain.jpg,No detection,
+Book1_0%_diagonal_grey_random.jpg,remote control,46.79
+Book1_0%_diagonal_white_plain.jpg,No detection,
+Book1_0%_diagonal_white_random.jpg,remote control,84.86
+Book1_0%_topdown_grey_plain.jpg,No detection,
+Book1_0%_topdown_grey_random.jpg,remote control,85.27
+Book1_0%_topdown_white_plain.jpg,No detection,
+Book1_0%_topdown_white_random.jpg,remote control,15.68
+Book1_20%_diagonal_grey_plain.jpg,No detection,
+Book1_20%_diagonal_grey_random.jpg,remote control,83.77
+Book1_20%_diagonal_white_plain.jpg,No detection,
+Book1_20%_diagonal_white_random.jpg,remote control,91.79
+Book1_20%_topdown_grey_plain.jpg,No detection,
+Book1_20%_topdown_grey_random.jpg,remote control,24.68
+Book1_20%_topdown_white_plain.jpg,No detection,
+Book1_20%_topdown_white_random.jpg,remote control,11.53
+Book1_40%_diagonal_grey_plain.jpg,No detection,
+Book1_40%_diagonal_grey_random.jpg,remote control,60.12
+Book1_40%_diagonal_white_plain.jpg,No detection,
+Book1_40%_diagonal_white_random.jpg,book,41.42
+Book1_40%_topdown_grey_plain.jpg,No detection,
+Book1_40%_topdown_grey_random.jpg,remote control,75.34
+Book1_40%_topdown_white_plain.jpg,No detection,
+Book1_40%_topdown_white_random.jpg,remote control,62.64
+Book1_60%_diagonal_grey_plain.jpg,No detection,
+Book1_60%_diagonal_grey_random.jpg,No detection,
+Book1_60%_diagonal_white_plain.jpg,No detection,
+Book1_60%_diagonal_white_random.jpg,No detection,
+Book1_60%_topdown_grey_plain.jpg,No detection,
+Book1_60%_topdown_grey_random.jpg,remote control,53.07
+Book1_60%_topdown_white_plain.jpg,No detection,
+Book1_60%_topdown_white_random.jpg,remote control,55.06
+Book1_80%_diagonal_grey_plain.jpg,book,11.51
+Book1_80%_diagonal_grey_random.jpg,No detection,
+Book1_80%_diagonal_white_plain.jpg,No detection,
+Book1_80%_diagonal_white_random.jpg,book,10.74
+Book1_80%_topdown_grey_plain.jpg,No detection,
+Book1_80%_topdown_grey_random.jpg,No detection,
+Book1_80%_topdown_white_plain.jpg,No detection,
+Book1_80%_topdown_white_random.jpg,No detection,
+Book2_0%_diagonal_grey_plain.jpg,book,12.43
+Book2_0%_diagonal_grey_random.jpg,remote control,36.89
+Book2_0%_diagonal_white_plain.jpg,book,12.43
+Book2_0%_diagonal_white_random.jpg,remote control,36.89
+Book2_0%_topdown_grey_plain.jpg,book,48.29
+Book2_0%_topdown_grey_random.jpg,remote control,36.89
+Book2_0%_topdown_white_plain.jpg,book,48.29
+Book2_0%_topdown_white_random.jpg,remote control,36.89
+Book2_20%_diagonal_grey_plain.jpg,book,67.66
+Book2_20%_diagonal_grey_random.jpg,book,70.58
+Book2_20%_diagonal_white_plain.jpg,book,30.34
+Book2_20%_diagonal_white_random.jpg,remote control,25.38
+Book2_20%_topdown_grey_plain.jpg,book,13.2
+Book2_20%_topdown_grey_random.jpg,remote control,56.11
+Book2_20%_topdown_white_plain.jpg,book,16.75
+Book2_20%_topdown_white_random.jpg,remote control,40.81
+Book2_40%_diagonal_grey_plain.jpg,No detection,
+Book2_40%_diagonal_grey_random.jpg,remote control,59.26
+Book2_40%_diagonal_white_plain.jpg,No detection,
+Book2_40%_diagonal_white_random.jpg,remote control,40.68
+Book2_40%_topdown_grey_plain.jpg,No detection,
+Book2_40%_topdown_grey_random.jpg,remote control,54.72
+Book2_40%_topdown_white_plain.jpg,No detection,
+Book2_40%_topdown_white_random.jpg,remote control,25.49
+Book2_60%_diagonal_grey_plain.jpg,No detection,
+Book2_60%_diagonal_grey_random.jpg,remote control,35.59
+Book2_60%_diagonal_white_plain.jpg,No detection,
+Book2_60%_diagonal_white_random.jpg,remote control,25.57
+Book2_60%_topdown_grey_plain.jpg,No detection,
+Book2_60%_topdown_grey_random.jpg,remote control,83.25
+Book2_60%_topdown_white_plain.jpg,No detection,
+Book2_60%_topdown_white_random.jpg,remote control,36.79
+Book2_80%_diagonal_grey_plain.jpg,No detection,
+Book2_80%_diagonal_grey_random.jpg,remote control,50.13
+Book2_80%_diagonal_white_plain.jpg,No detection,
+Book2_80%_diagonal_white_random.jpg,remote control,70.09
+Book2_80%_topdown_grey_plain.jpg,No detection,
+Book2_80%_topdown_grey_random.jpg,remote control,18.76
+Book2_80%_topdown_white_plain.jpg,No detection,
+Book2_80%_topdown_white_random.jpg,book,41.51
+Book3_0%_diagonal_grey_plain.jpg,book,98.05
+Book3_0%_diagonal_grey_random.jpg,book,98.1
+Book3_0%_diagonal_white_plain.jpg,book,98.05
+Book3_0%_diagonal_white_random.jpg,book,98.1
+Book3_0%_topdown_grey_plain.jpg,book,98.05
+Book3_0%_topdown_grey_random.jpg,book,98.1
+Book3_0%_topdown_white_plain.jpg,book,98.05
+Book3_0%_topdown_white_random.jpg,book,98.1
+Book3_20%_diagonal_grey_plain.jpg,book,79.01
+Book3_20%_diagonal_grey_random.jpg,book,91.83
+Book3_20%_diagonal_white_plain.jpg,book,83.9
+Book3_20%_diagonal_white_random.jpg,book,96.05
+Book3_20%_topdown_grey_plain.jpg,book,47.45
+Book3_20%_topdown_grey_random.jpg,book,93.53
+Book3_20%_topdown_white_plain.jpg,book,88.41
+Book3_20%_topdown_white_random.jpg,book,96.12
+Book3_40%_diagonal_grey_plain.jpg,book,84.01
+Book3_40%_diagonal_grey_random.jpg,book,79.19
+Book3_40%_diagonal_white_plain.jpg,book,69.96
+Book3_40%_diagonal_white_random.jpg,book,94.35
+Book3_40%_topdown_grey_plain.jpg,No detection,
+Book3_40%_topdown_grey_random.jpg,book,29.82
+Book3_40%_topdown_white_plain.jpg,No detection,
+Book3_40%_topdown_white_random.jpg,book,85.22
+Book3_60%_diagonal_grey_plain.jpg,book,55.49
+Book3_60%_diagonal_grey_random.jpg,book,59.86
+Book3_60%_diagonal_white_plain.jpg,No detection,
+Book3_60%_diagonal_white_random.jpg,book,87.43
+Book3_60%_topdown_grey_plain.jpg,No detection,
+Book3_60%_topdown_grey_random.jpg,remote control,27.23
+Book3_60%_topdown_white_plain.jpg,book,19.17
+Book3_60%_topdown_white_random.jpg,remote control,32.65
+Book3_80%_diagonal_grey_plain.jpg,book,21.28
+Book3_80%_diagonal_grey_random.jpg,remote control,36.1
+Book3_80%_diagonal_white_plain.jpg,book,54.25
+Book3_80%_diagonal_white_random.jpg,book,54.01
+Book3_80%_topdown_grey_plain.jpg,book,18.12
+Book3_80%_topdown_grey_random.jpg,book,76.1
+Book3_80%_topdown_white_plain.jpg,book,95.44
+Book3_80%_topdown_white_random.jpg,book,84.21
+remote1_0%_plain.JPG,No detection,
+remote1_0%_random.JPG,book,56.97
+remote1_20%_diagonal_grey_plain.JPG,remote control,10.85
+remote1_20%_diagonal_grey_random.JPG,book,21.89
+remote1_20%_diagonal_white_plain.JPG,remote control,18.81
+remote1_20%_diagonal_white_random.JPG,book,11.64
+remote1_20%_topdown_grey_plain.JPG,No detection,
+remote1_20%_topdown_grey_random.JPG,remote control,20.57
+remote1_20%_topdown_white_plain.JPG,No detection,
+remote1_20%_topdown_white_random.JPG,remote control,28.23
+remote1_40%_diagonal_grey_plain.JPG,remote control,19.18
+remote1_40%_diagonal_grey_random.JPG,book,34.92
+remote1_40%_diagonal_white_plain.JPG,remote control,23.48
+remote1_40%_diagonal_white_random.JPG,remote control,30.26
+remote1_40%_topdown_grey_plain.JPG,remote control,12.17
+remote1_40%_topdown_grey_random.JPG,book,31.16
+remote1_40%_topdown_white_plain.JPG,No detection,
+remote1_40%_topdown_white_random.JPG,remote control,35.11
+remote1_60%_diagonal_grey_plain.JPG,No detection,
+remote1_60%_diagonal_grey_random.JPG,book,61.3
+remote1_60%_diagonal_white_plain.JPG,No detection,
+remote1_60%_diagonal_white_random.JPG,remote control,13.73
+remote1_60%_topdown_grey_plain.JPG,No detection,
+remote1_60%_topdown_grey_random.JPG,book,18.36
+remote1_60%_topdown_white_plain.JPG,No detection,
+remote1_60%_topdown_white_random.JPG,book,20.22
+remote1_80%_diagonal_grey_plain.JPG,No detection,
+remote1_80%_diagonal_grey_random.JPG,book,73.43
+remote1_80%_diagonal_white_plain.JPG,No detection,
+remote1_80%_diagonal_white_random.JPG,book,15.04
+remote1_80%_topdown_grey_plain.JPG,No detection,
+remote1_80%_topdown_grey_random.JPG,book,17.84
+remote1_80%_topdown_white_plain.JPG,No detection,
+remote1_80%_topdown_white_random.JPG,No detection,
+remote2_0%_plain.JPG,remote control,74.48
+remote2_0%_random.JPG,book,74.92
+remote2_20%_diagonal_grey_plain.JPG,remote control,44.87
+remote2_20%_diagonal_grey_random.JPG,remote control,24.2
+remote2_20%_diagonal_white_plain.JPG,remote control,58.17
+remote2_20%_diagonal_white_random.JPG,remote control,55.14
+remote2_20%_topdown_grey_plain.JPG,remote control,70.3
+remote2_20%_topdown_grey_random.JPG,remote control,39.6
+remote2_20%_topdown_white_plain.JPG,remote control,69.62
+remote2_20%_topdown_white_random.JPG,book,30.81
+remote2_40%_diagonal_grey_plain.JPG,remote control,41.38
+remote2_40%_diagonal_grey_random.JPG,book,55.7
+remote2_40%_diagonal_white_plain.JPG,remote control,68.76
+remote2_40%_diagonal_white_random.JPG,remote control,33.21
+remote2_40%_topdown_grey_plain.JPG,remote control,11.2
+remote2_40%_topdown_grey_random.JPG,remote control,24.17
+remote2_40%_topdown_white_plain.JPG,remote control,22.77
+remote2_40%_topdown_white_random.JPG,No detection,
+remote2_60%_diagonal_grey_plain.JPG,No detection,
+remote2_60%_diagonal_grey_random.JPG,book,56.47
+remote2_60%_diagonal_white_plain.JPG,No detection,
+remote2_60%_diagonal_white_random.JPG,book,20.84
+remote2_60%_topdown_grey_plain.JPG,No detection,
+remote2_60%_topdown_grey_random.JPG,No detection,
+remote2_60%_topdown_white_plain.JPG,book,12.29
+remote2_60%_topdown_white_random.JPG,No detection,
+remote2_80%_ topdown_grey_plain.JPG,No detection,
+remote2_80%_diagonal_grey_plain.JPG,No detection,
+remote2_80%_diagonal_grey_random.JPG,book,45.74
+remote2_80%_diagonal_white_plain.JPG,No detection,
+remote2_80%_diagonal_white_random.JPG,book,41.65
+remote2_80%_topdown_grey_random.JPG,No detection,
+remote2_80%_topdown_white_plain.JPG,No detection,
+remote2_80%_topdown_white_random.JPG,book,50.75
+remote3_0%_plain.JPG,remote control,94.94
+remote3_0%_random.JPG,remote control,77.29
+remote3_20%_diagonal_grey_plain.JPG,remote control,83.31
+remote3_20%_diagonal_grey_random.JPG,book,79.72
+remote3_20%_diagonal_white_plain.JPG,remote control,89.27
+remote3_20%_diagonal_white_random.JPG,remote control,92.74
+remote3_20%_topdown_grey_plain.JPG,remote control,72.44
+remote3_20%_topdown_grey_random.JPG,remote control,79.3
+remote3_20%_topdown_white_plain.JPG,remote control,79.88
+remote3_20%_topdown_white_random.JPG,remote control,89.47
+remote3_40%_diagonal_grey_plain.JPG,remote control,53.7
+remote3_40%_diagonal_grey_random.JPG,remote control,72.16
+remote3_40%_diagonal_white_plain.JPG,remote control,46.07
+remote3_40%_diagonal_white_random.JPG,remote control,85.37
+remote3_40%_topdown_grey_plain.JPG,remote control,54.43
+remote3_40%_topdown_grey_random.JPG,remote control,61.01
+remote3_40%_topdown_white_plain.JPG,remote control,50.92
+remote3_40%_topdown_white_random.JPG,remote control,89.0
+remote3_60%_diagonal_grey_plain.JPG,No detection,
+remote3_60%_diagonal_grey_random.JPG,remote control,51.34
+remote3_60%_diagonal_white_plain.JPG,remote control,69.39
+remote3_60%_diagonal_white_random.JPG,remote control,58.53
+remote3_60%_topdown_grey_plain.JPG,remote control,61.98
+remote3_60%_topdown_grey_random.JPG,book,34.93
+remote3_60%_topdown_white_plain.JPG,remote control,78.3
+remote3_60%_topdown_white_random.JPG,remote control,30.16
+remote3_80%_diagonal_grey_plain.JPG,remote control,14.87
+remote3_80%_diagonal_grey_random.JPG,remote control,47.21
+remote3_80%_diagonal_white_plain.JPG,remote control,86.7
+remote3_80%_diagonal_white_random.JPG,remote control,62.52
+remote3_80%_topdown_grey_plain.JPG,remote control,61.82
+remote3_80%_topdown_grey_random.JPG,book,28.54
+remote3_80%_topdown_white_plain.JPG,remote control,68.2
+remote3_80%_topdown_white_random.JPG,No detection,
+spoon1_0%_topdown_white_plain.jpg,spoon,99.28
+spoon1_0%_topdown_white_random.jpg,spoon,99.09
+spoon1_20%_diagonal_grey_plain.jpg,spoon,99.23
+spoon1_20%_diagonal_grey_random.jpg,spoon,99.82
+spoon1_20%_diagonal_white_plain.jpg,spoon,99.81
+spoon1_20%_diagonal_white_random.jpg,spoon,99.81
+spoon1_20%_topdown_grey_plain.jpg,spoon,99.78
+spoon1_20%_topdown_grey_random.jpg,spoon,99.74
+spoon1_20%_topdown_white_plain.jpg,spoon,99.85
+spoon1_20%_topdown_white_random.jpg,spoon,99.76
+spoon1_40%_diagonal_grey_plain.jpg,spoon,99.47
+spoon1_40%_diagonal_grey_random.jpg,spoon,99.78
+spoon1_40%_diagonal_white_plain.jpg,spoon,98.94
+spoon1_40%_diagonal_white_random.jpg,spoon,99.63
+spoon1_40%_topdown_grey_plain.jpg,spoon,99.64
+spoon1_40%_topdown_grey_random.jpg,spoon,99.82
+spoon1_40%_topdown_white_plain.jpg,spoon,99.75
+spoon1_40%_topdown_white_random.jpg,spoon,99.73
+spoon1_60%_diagonal_grey_plain.jpg,No detection,
+spoon1_60%_diagonal_grey_random.jpg,spoon,99.86
+spoon1_60%_diagonal_white_plain.jpg,spoon,13.29
+spoon1_60%_diagonal_white_random.jpg,spoon,81.73
+spoon1_60%_topdown_grey_plain.jpg,spoon,39.34
+spoon1_60%_topdown_grey_random.jpg,spoon,99.86
+spoon1_60%_topdown_white_plain.jpg,spoon,64.27
+spoon1_60%_topdown_white_random.jpg,spoon,99.21
+spoon1_80%_diagonal_grey_plain.jpg,spoon,39.81
+spoon1_80%_diagonal_grey_random.jpg,spoon,95.95
+spoon1_80%_diagonal_white_plain.jpg,spoon,16.38
+spoon1_80%_diagonal_white_random.jpg,spoon,91.66
+spoon1_80%_topdown_grey_plain.jpg,spoon,53.88
+spoon1_80%_topdown_grey_random.jpg,spoon,78.67
+spoon1_80%_topdown_white_plain.jpg,spoon,33.45
+spoon1_80%_topdown_white_random.jpg,spoon,94.01
+spoon2_0%_topdown_white_plain.jpg,spoon,96.39
+spoon2_0%_topdown_white_random.jpg,spoon,98.57
+spoon2_20%_diagonal_grey_plain.jpg,spoon,76.28
+spoon2_20%_diagonal_grey_random.jpg,spoon,98.3
+spoon2_20%_diagonal_white_plain.jpg,spoon,90.72
+spoon2_20%_diagonal_white_random.jpg,spoon,98.9
+spoon2_20%_topdown_grey_plain.jpg,spoon,90.43
+spoon2_20%_topdown_grey_random.jpg,spoon,98.91
+spoon2_20%_topdown_white_plain.jpg,spoon,92.31
+spoon2_20%_topdown_white_random.jpg,spoon,98.57
+spoon2_40%_diagonal_grey_plain.jpg,spoon,90.84
+spoon2_40%_diagonal_grey_random.jpg,spoon,95.53
+spoon2_40%_diagonal_white_plain.jpg,spoon,56.25
+spoon2_40%_diagonal_white_random.jpg,spoon,95.5
+spoon2_40%_topdown_grey_plain.jpg,spoon,88.68
+spoon2_40%_topdown_grey_random.jpg,spoon,95.36
+spoon2_40%_topdown_white_plain.jpg,spoon,84.0
+spoon2_40%_topdown_white_random.jpg,spoon,98.39
+spoon2_60%_diagonal_grey_plain.jpg,No detection,
+spoon2_60%_diagonal_grey_random.jpg,book,37.35
+spoon2_60%_diagonal_white_plain.jpg,No detection,
+spoon2_60%_diagonal_white_random.jpg,spoon,25.75
+spoon2_60%_topdown_grey_plain.jpg,spoon,57.42
+spoon2_60%_topdown_grey_random.jpg,spoon,94.96
+spoon2_60%_topdown_white_plain.jpg,spoon,14.84
+spoon2_60%_topdown_white_random.jpg,spoon,97.08
+spoon2_80%_diagonal_grey_plain.jpg,No detection,
+spoon2_80%_diagonal_grey_random.jpg,book,45.84
+spoon2_80%_diagonal_white_plain.jpg,No detection,
+spoon2_80%_diagonal_white_random.jpg,No detection,
+spoon2_80%_topdown_grey_plain.jpg,No detection,
+spoon2_80%_topdown_grey_random.jpg,spoon,71.66
+spoon2_80%_topdown_white_plain.jpg,No detection,
+spoon2_80%_topdown_white_random.jpg,spoon,16.49
+spoon3_0%_topdown_white_plain.jpg,spoon,95.31
+spoon3_0%_topdown_white_random.jpg,spoon,96.29
+spoon3_20%_diagonal_grey_plain.jpg,spoon,93.72
+spoon3_20%_diagonal_grey_random.jpg,spoon,98.67
+spoon3_20%_diagonal_white_plain.jpg,spoon,77.88
+spoon3_20%_diagonal_white_random.jpg,spoon,99.46
+spoon3_20%_topdown_grey_plain.jpg,spoon,93.37
+spoon3_20%_topdown_grey_random.jpg,spoon,99.53
+spoon3_20%_topdown_white_plain.jpg,spoon,89.51
+spoon3_20%_topdown_white_random.jpg,spoon,98.99
+spoon3_40%_diagonal_grey_plain.jpg,spoon,83.5
+spoon3_40%_diagonal_grey_random.jpg,spoon,85.64
+spoon3_40%_diagonal_white_plain.jpg,spoon,75.51
+spoon3_40%_diagonal_white_random.jpg,spoon,92.21
+spoon3_40%_topdown_grey_plain.jpg,spoon,98.86
+spoon3_40%_topdown_grey_random.jpg,spoon,52.35
+spoon3_40%_topdown_white_plain.jpg,spoon,96.95
+spoon3_40%_topdown_white_random.jpg,spoon,96.74
+spoon3_60%_diagonal_grey_plain.jpg,book,24.71
+spoon3_60%_diagonal_grey_random.jpg,spoon,42.34
+spoon3_60%_diagonal_white_plain.jpg,No detection,
+spoon3_60%_diagonal_white_random.jpg,spoon,48.47
+spoon3_60%_topdown_grey_plain.jpg,No detection,
+spoon3_60%_topdown_grey_random.jpg,spoon,86.69
+spoon3_60%_topdown_white_plain.jpg,spoon,25.99
+spoon3_60%_topdown_white_random.jpg,spoon,55.12
+spoon3_80%_diagonal_grey_plain.jpg,book,38.01
+spoon3_80%_diagonal_grey_random.jpg,spoon,22.8
+spoon3_80%_diagonal_white_plain.jpg,No detection,
+spoon3_80%_diagonal_white_random.jpg,spoon,53.53
+spoon3_80%_topdown_grey_plain.jpg,No detection,
+spoon3_80%_topdown_grey_random.jpg,spoon,61.74
+spoon3_80%_topdown_white_plain.jpg,No detection,
+spoon3_80%_topdown_white_random.jpg,spoon,55.82
